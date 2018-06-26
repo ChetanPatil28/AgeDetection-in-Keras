@@ -18,7 +18,7 @@ Because the faces are invariant to color-intensity, i purposely converted all th
 ![](images/img2.PNG) 
 
 
-I fed all the images into a Convolutoional Network and achieved a good accuracy. However,the model wasn't able to generalize well.
+I fed all the images into a Convolutional Network and achieved a good accuracy. However,the model wasn't able to generalize well.
 So, i flipped all the training images and matched their labels. This kind of data-augmentation made the model generalize well.
 
 The model is able to reach a training accuracy of 84% with a validation around 76%.
