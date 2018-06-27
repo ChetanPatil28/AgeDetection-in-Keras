@@ -23,4 +23,4 @@ So, i flipped all the training images and matched their labels. This kind of dat
 
 The model is able to reach a training accuracy of 84% with a validation around 76%.
 
- ![](images/Capture43.PNG)  ![](images/Capture78.PNG) 
+ ![](images/img1.PNG) ![](images/Capture43.PNG)  ![](images/Capture78.PNG) 
